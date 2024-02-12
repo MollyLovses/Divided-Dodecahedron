@@ -34,6 +34,16 @@ Functions are provided for creating faces from sets of vertices and rotating fac
 
 Text labels can be added to points in the 3D scene to provide additional information or context. This feature enhances the interpretability of the visualization by labeling specific points of interest.
 
+## Installation!
+
+Ensure you have a compatible web browser and an internet connection to access the necessary dependencies from the provided URLs. To run the code locally:
+
+1. Clone this repository to your local machine.
+2. Install threejs in the directory: "npm install three".
+3. Install vite: "npm install vite".
+4. Open the HTML file in a vite localhost: "npx vite".
+5. Ensure an active internet connection to load dependencies via URLs.
+
 ## Usage
 
 To use this code:
