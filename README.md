@@ -1,4 +1,4 @@
-# 3D Geometry Processing with Three.js
+# Divided Dodecahedron 3D Geometry Processing with ThreeJS
 
 ## Overview
 
