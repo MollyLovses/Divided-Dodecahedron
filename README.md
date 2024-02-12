@@ -4,7 +4,9 @@
 
 This project is aimed at processing 3D geometries, specifically faces of a dodecahedron, using the Three.js library. The code provides functionalities for subdividing faces, placing coordinates on a sphere, parsing JSON data, converting JavaScript objects to JSON strings, calculating areas of faces, performing vector calculations, creating and rotating faces, adding text labels to points, and animating the scene.
 
-![Divided Dodecahedron](https://github.com/MollyLovses/Divided-Dodecahedron/assets/96005820/bc49f29d-efe0-46f7-977d-39af9612e7eb)
+
+https://github.com/MollyLovses/Divided-Dodecahedron/assets/96005820/Divided.Dodecahedron
+
 
 ## Features
 
