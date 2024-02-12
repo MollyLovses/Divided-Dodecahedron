@@ -46,4 +46,4 @@ To use this code:
 
 ## Link
 
-[- Three.js library](https://sergeyforever.online/divided-dodecahedron/)https://sergeyforever.online/divided-dodecahedron/
+https://sergeyforever.online/divided-dodecahedron/
